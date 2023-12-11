@@ -1,0 +1,46 @@
+.logoInfo {
+    display: inline-flex;
+    width: 100%;
+    align-items: center;
+    justify-content:space-between;
+}
+
+img {
+    width: 143px;
+    height: 82.5px;
+}
+
+#opentxt {
+    font-family: calibri;
+    display:flex;
+    align-self: center;
+
+}
+
+#content {
+    display:inline-flex;
+    justify-content:flex-end;
+    color: darkred;
+}
+
+#maintext{
+    font-family: calibri;
+    display: flex;
+    flex: 2;
+}
+
+.section {
+    display: inline-flex;
+    flex-direction: column;
+    flex: 1;
+    margin-right: 10%;
+
+}
+
+#free {
+    color: darkred;
+}
+
+p {
+    font-family: calibri;
+}
